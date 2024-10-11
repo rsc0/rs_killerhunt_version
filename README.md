@@ -1,0 +1,1 @@
+# rs_killerhunt_version
